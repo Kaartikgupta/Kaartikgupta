@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kaartik Gupta</h1>
 <h3 align="center">A passionate full stack developer from India and incoming Software Engineer at Cimpress India.</h3>
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kaartikgupta](https://github.com/Kaartikgupta)
 
